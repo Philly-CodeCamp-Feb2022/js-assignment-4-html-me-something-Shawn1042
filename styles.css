@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+
+body{
+    margin: 8px;
+    display: block;
+}
+#mainHeading{
+    color: #ff0000;
+}
+#mainHeading:hover{
+    background-color: black;
+    color: yellow;
+}
+.funParagraph{
+    color: green;
+    background-color: black;
+}
+.MHA:hover{
+    color: yellow;
+    background-color: darkslategray;
+}
+img{
+    height: 200px;
+}
+img:hover{
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 10px 5px 15px 5px rgba(0,0,0,0.46); 
+box-shadow: 0px 10px 13px -7px #000000, 10px 5px 15px 5px rgba(0,0,0,0.46);
+}
+#death-note:hover{
+    color: wheat;
+    background-color: black;
+}
+#AOT{
+    color: purple;
+}
+#AOT:hover{
+    background-color: #000000;
+}
